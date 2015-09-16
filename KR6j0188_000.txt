@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說守護大千國土經
+#+DATE: 2015-08-30 20:27:34.211749
+#+PROPERTY: JUAN 0
